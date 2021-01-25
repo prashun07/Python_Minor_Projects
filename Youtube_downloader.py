@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[12]:
+
 
 
 #importing Libraries
@@ -35,7 +35,7 @@ Button(root,text = 'DOWNLOAD', font = 'arial 15 bold' ,bg = 'pale violet red', p
 root.mainloop()
 
 
-# In[ ]:
+
 
 
 
